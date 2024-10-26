@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imijueli.github.io/sitemap_index.imijueli
